@@ -2,3 +2,4 @@ initial
 hello second
 third
 virus fixed
+bug fixed
