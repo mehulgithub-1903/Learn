@@ -1,6 +1,0 @@
-initial
-hello second
-third
-virus fixed
-bug fixed
-this is fixed branch
